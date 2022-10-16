@@ -11,7 +11,11 @@ body{
   
   #show_sketch
   {
-    float:center;
+    float:right;
+  }
+  
+  #timer{
+    float: right;
   }
   
   #sketch_to_be_drawn{
